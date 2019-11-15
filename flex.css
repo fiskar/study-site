@@ -3,15 +3,20 @@
   flex-direction: row;
   flex-wrap: wrap;
   justify-content: center;
-  background-color: brown;
-  height: 400px;
+  background-color: #B93740;
+  height: 200px;
   }
 
 .flex-element {
 	order: 0;
-	color: white;
-	background-color: green;
+	color: #B93740;
+	font-family: 'Pacifico', monospace, comic-sanse;
+	font-size: 25px;
+	text-align: center;
+	background-color: #37B9B1;
 	margin: 3px;
+	border-radius: 6px 4px;
+	box-shadow: 2px
 }
 
 .element-1 {
