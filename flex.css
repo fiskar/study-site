@@ -9,14 +9,12 @@
 
 .flex-element {
 	order: 0;
-	
 	font-family: 'Pacifico', monospace, comic-sanse;
 	font-size: 20px;
 	text-align: center;
-	background: radial-gradient(white 25%,rgba(185, 55, 64, .4));
+	background-color: radial-gradient(white 25%,rgba(185, 55, 64, .4));
 	margin: 3px;
 	border-radius: 45px;
-	opacity: 0.1;
 	box-shadow: 2px
 }
 
