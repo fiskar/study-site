@@ -225,3 +225,7 @@ footer {
 .italic {
   font-style: italic;
 }
+
+ul>li:not(:last-child)::after {
+  content: ',';
+}
